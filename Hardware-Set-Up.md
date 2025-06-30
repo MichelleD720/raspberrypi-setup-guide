@@ -3,6 +3,10 @@
 **Author:** Michelle Dang   
 **Category:** Raspberry Pi → Hardware  
 
+**Related Articles**
+- [KB-RPI-0002 Configuring-Micro-SD](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
+- [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH]()
+
 ## Hardware-Set-Up
 
 ### 1.Putting the Pi together **Skip to 2.7 if you do not have Pi case
