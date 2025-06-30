@@ -1,4 +1,4 @@
-# raspberrypi-setup-guide
+# Raspberrypi-Setup-Guide
 Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access
 
 **Includes Articles** 
