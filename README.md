@@ -2,8 +2,8 @@
 Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access
 
 **Includes Articles** 
-- [KB-RPI-0001 Hardware-Set-Up](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Hardware-Set-Up)
-- [KB-RPI-0002 Configuring-Micro-SD](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD)
+- [KB-RPI-0001 Hardware-Set-Up](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Hardware-Set-Up.md)
+- [KB-RPI-0002 Configuring-Micro-SD](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
 - [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH]()
 
 **Last Updated:** 2025-06-30  
