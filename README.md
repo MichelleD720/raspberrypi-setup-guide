@@ -42,10 +42,6 @@ I purchased the Vilros "WAVE" Raspberry Pi 5 Compatible Aluminum Alloy Active + 
 
 
 
-## Connecting PI to wifi and SSH 
-
-
-
 
 
 
