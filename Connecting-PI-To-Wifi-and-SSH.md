@@ -15,11 +15,12 @@ You'll get a black box known as the command prompt
 ![{C4CEAA33-1F21-4CFF-BFE6-A063D5893931}](https://github.com/user-attachments/assets/e7f0af45-a8d6-43c3-b776-1dadd5d963aa)
 
 3.2 Now at this point, other tutorials will tell you to try and ping the pi. Their pings will work. Ours will not because the 
-raspberrypi5 wants you to use their raspi-config window to set up wifi access.See below,
+raspberrypi5 wants you to use their raspi-config window to set up wifi access.See below
 ![{7D94B897-2F2A-4FBD-B722-5A17DD031C78}](https://github.com/user-attachments/assets/24de53be-f735-4e6f-90f7-19bb09fcb180)
 
 3.3 First connect your ethernet cable to you pi and laptop/pc to establish a connection. Now if you try to ping your pi it should do 
 a return of something like this. This means that your computer can contact your pi
+**Note** if it doesn't work check if you have a vpn on. This could be blocking the connection
 
 ![{76CA03A6-B236-45B7-8E4A-3CA7FF1AAD79}](https://github.com/user-attachments/assets/0aabdbb5-f008-4e4d-ac98-7c40b7e96d39)
 
