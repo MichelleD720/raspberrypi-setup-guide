@@ -24,7 +24,7 @@ your MicroSD card. If there is no microSD card option shown then unplug and repl
 
 2.4 For now copy what I have for the hostname. The password will be raspberrypi. All of these can be changed later once you've completed inital set up and remote access. 
 Input your own information for the username, SSID, password, Wireless LAN country, timezone, and keyboard layout 
-### WARNING:use a username you want because it is a pain to change later
+### WARNING:use a username you want because it is a pain to change later, unless you want to create a new user and disable the inital setup one
 ![{35CA1F3F-C2D8-4CBC-91EC-53A5F7939B03}](https://github.com/user-attachments/assets/1a90bb59-05fb-4d77-87fa-f4fe026571c4)
 
 2.5 Go to services and enable SSH and click save and wait for it to finish
