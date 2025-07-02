@@ -5,7 +5,7 @@
 
 **Related Articles**
 - [KB-RPI-0002 Configuring-Micro-SD](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
-- [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH]()
+- [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
 
 ## Hardware-Set-Up
 
