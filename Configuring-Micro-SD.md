@@ -6,7 +6,7 @@
 **Related Articles** 
 - [KB-RPI-0001 Hardware-Set-Up](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Hardware-Set-Up.md)
 - [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Connecting-PI-To-Wifi-and-SSH.md)
-- [KB-RPI-0004 No-Signal-Display-Monitor](https://github.com/MichelleD720/raspberrypi-setup-guide/edit/main/No-Signal-Display-Monitor)
+- [KB-RPI-0004 No-Signal-Display-Monitor](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/No-Signal-Display-Monitor.md)
 
 ### 2.Configuring the microSD card
 2.1 Insert your microSD card into your reader and connect to your laptop or PC.
