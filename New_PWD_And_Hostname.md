@@ -1,7 +1,7 @@
-Article ID: KB-RPI-0005
-Last Updated: 2025-07-02
-Author: Michelle Dang
-Category: Raspberry Pi → Configurations
+**Article ID:** KB-RPI-0005  
+**Last Updated:** 2025-07-02  
+**Author:** Michelle Dang   
+**Category:** Raspberry Pi → Configuration
 
 5.1 First shh into your pi and sudo into your raspi-config. If confused go back to KB-RPI-0003
 ![{50122F0D-144B-4A88-B418-ECB7B0369214}](https://github.com/user-attachments/assets/d6af41b3-ba62-48e6-b200-6724ca85403f)
