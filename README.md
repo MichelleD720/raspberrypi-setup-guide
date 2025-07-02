@@ -4,7 +4,7 @@ Headless Raspberry Pi setup guide for Wi-Fi configuration and remote access
 **Includes Articles** 
 - [KB-RPI-0001 Hardware-Set-Up](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Hardware-Set-Up.md)
 - [KB-RPI-0002 Configuring-Micro-SD](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
-- [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH]()
+- [KB-RPI-0003 Connecting-PI-To-Wifi-and-SSH](https://github.com/MichelleD720/raspberrypi-setup-guide/blob/main/Configuring-Micro-SD.md)
 
 **Last Updated:** 2025-06-30  
 **Author:** Michelle Dang   
@@ -17,8 +17,7 @@ This article outlines how to set up a Raspberry Pi using a headless method (no m
 - Couldn’t find the fan’s connection port. **Skip to 1.1**
 - Ports misaligned, making it hard to fit the Pi into the case. **Skip to 1.4**  
 - No display output, so switched to headless setup.  
-- Trouble connecting to Wi-Fi and locating IP/MAC addresses.  
-- Initial SSH connection failures required troubleshooting.
+- Trouble connecting to Wi-Fi and locating IP/MAC addresses. **Skip to 3.8**
 #### Note 
 I will explain how I fixed the display output to monitor issue and also I am a windows user. 
 
