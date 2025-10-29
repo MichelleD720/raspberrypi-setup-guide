@@ -19,7 +19,7 @@
 your MicroSD card. If there is no microSD card option shown then unplug and replug your reader. This will more than likely fix the issue. If that doesn't work, the issue could be hardware related, so try a different card or reader if you have one.
 ![{251C0540-A884-4F9A-B166-782A52DEDA5A}](https://github.com/user-attachments/assets/3841c1d0-b799-4b9d-a5d9-3376567a7a79)
 
-2.3 Go to edit setting we will now set up the card, so have a place to write down information ready. You'll also need to know your WIFI SSID (wifi name) and password. 
+2.3 Go to edit setting we will now set up the card, so have a place to write down information ready. You'll also need to know your WIFI SSID (wifi name) and password. If you want a wireless connection
 ![{B62F8D32-5BED-4DD0-B542-28A3E64899B6}](https://github.com/user-attachments/assets/f051b527-9729-4233-a528-556c4835f0b5) 
 
 2.4 For now copy what I have for the hostname. The password will be raspberrypi. All of these can be changed later once you've completed inital set up and remote access. 
@@ -27,7 +27,7 @@ Input your own information for the username, SSID, password, Wireless LAN countr
 ### WARNING:use a username you want because it is a pain to change later, unless you want to create a new user and disable the inital setup one
 ![{35CA1F3F-C2D8-4CBC-91EC-53A5F7939B03}](https://github.com/user-attachments/assets/1a90bb59-05fb-4d77-87fa-f4fe026571c4)
 
-2.5 Go to services and enable SSH and click save and wait for it to finish
+2.5 Go to services and enable SSH and click save, click yes, and wait for it to finish
 ![{1960863F-7DDB-43ED-A7BF-6F98A51450B1}](https://github.com/user-attachments/assets/3864b5c9-fcfd-4b44-b570-fd8dbcd84f94)
 
 2.6 Go to the usb drive icon and eject the SD card. Now you can safely remove it from your reader.  
